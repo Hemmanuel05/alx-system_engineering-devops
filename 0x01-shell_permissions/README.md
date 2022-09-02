@@ -1,1 +1,1 @@
-a script that sets the mode of the file to olleh
+a script that creates a directory called my_dir with permissions 751
