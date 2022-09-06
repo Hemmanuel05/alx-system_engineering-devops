@@ -1,1 +1,1 @@
-a script that prints a number with two decimal places
+a script that prints every other line from the input, starting with the first line
